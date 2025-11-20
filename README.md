@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @AaryaButolia11<br>I’m interested in AIML<br>I’m currently exploring Machine Learning <br>📫 reach me @ aaryabutolia@gmail.com<br>😄 Pronouns: he/him<br><br>
+Hi, I’m @AaryaButolia11<br>I’m interested in ML & GenAI<br>I’m currently exploring Machine Learning <br>📫 reach me @ aaryabutolia@gmail.com<br>😄 Pronouns: he/him<br><br>
 
 
 ## 🌐 Socials:
