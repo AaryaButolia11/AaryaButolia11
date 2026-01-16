@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI/ML and Web Dev
 -----------------
 
-Computer Science undergraduate specializing in AI & ML at VIT Bhopal (CGPA 9.08), with hands-on experience building ML-powered full-stack applications. Skilled in Python, Flask, cloud platforms, and predictive modeling, with a strong interest in scalable systems and real-world problem solving.
+Computer Science undergraduate specializing in AI & ML at VIT Bhopal, with hands-on experience building ML-powered full-stack applications. Skilled in Python, Flask, cloud platforms, and predictive modeling, with a strong interest in scalable systems and real-world problem solving.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://aarya-butolia.vercel.app/)
