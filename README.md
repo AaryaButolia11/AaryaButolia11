@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+### Computer Science undergraduate specializing in AI & ML at VIT Bhopal, with hands-on experience building ML-powered full-stack applications. Skilled in Python, Flask, cloud platforms, and predictive modeling, with a strong interest in scalable systems and real-world problem solving.
+
 🌍 I'm based in India<br>🖥️ See my portfolio at Portfolio<br>✉️ You can contact me at aaryabutolia@gmail.com<br>🧠 I'm currently learning AI/ML<br>👥 I'm looking to collaborate on ML Projects<br>
 
 
