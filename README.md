@@ -2,8 +2,12 @@
 
 ### Computer Science undergraduate specializing in AI & ML at VIT Bhopal, with hands-on experience building ML-powered full-stack applications. Skilled in Python, Flask, cloud platforms, and predictive modeling, with a strong interest in scalable systems and real-world problem solving.
 
-🌍 I'm based in India<br>🖥️ See my portfolio at Portfolio<br>✉️ You can contact me at aaryabutolia@gmail.com<br>🧠 I'm currently learning AI/ML<br>👥 I'm looking to collaborate on ML Projects<br>
-
+🧠 Interests: Artificial Intelligence, Machine Learning, Generative AI & Full-Stack Development <br>
+🌐 Portfolio: https://aarya-butolia.vercel.app/ <br>
+📜 Certified: OCI Generative AI Professional · Azure DP-900 · Oracle MySQL Associate <br>
+🏆 NPTEL Cloud Computing Top 1%ile Nationwide · 3rd Rank at VIT Bhopal <br>
+🎓 B.Tech CSE (AI & ML) — VIT Bhopal University <br>
+💻 Building AI-powered Web Applications & ML Projects <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryabutolia) 
