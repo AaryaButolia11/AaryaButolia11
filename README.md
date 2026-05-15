@@ -6,6 +6,7 @@
 🌐 Portfolio: https://aarya-butolia.vercel.app/ <br>
 📜 Certified: OCI Generative AI Professional · Azure DP-900 · Oracle MySQL Associate <br>
 🏆 NPTEL Cloud Computing Top 1%ile Nationwide · 3rd Rank at VIT Bhopal <br>
+🏆 NPTEL Introduction to Internet of Things(IoT) Top 2%ile Nationwide<br>
 🎓 B.Tech CSE (AI & ML) — VIT Bhopal University <br>
 💻 Building AI-powered Web Applications & ML Projects <br>
 
