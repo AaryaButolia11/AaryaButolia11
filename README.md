@@ -114,12 +114,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=AaryaButolia11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AaryaButolia11&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=AaryaButolia11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AaryaButolia11&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AaryaButolia11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AaryaButolia11&hide_border=true&background=0d1117&stroke=21262d&ring=00d4ff&fire=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 ---
