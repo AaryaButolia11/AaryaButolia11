@@ -119,7 +119,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AaryaButolia11&hide_border=true&background=0d1117&stroke=21262d&ring=00d4ff&fire=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AaryaButolia11&hide_border=true&background=0d1117&stroke=21262d&ring=00d4ff&fire=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 ---
