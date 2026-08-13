@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science (AI & ML)** at **VIT**
+- 🎓 **B.Tech in Computer Science (AI & ML)** at **VIT Bhopal** — CGPA **9.19 / 10**
 - ⚙️ I build **async, production-ready backends** with FastAPI & Flask, and **GenAI systems** with LangChain, LangGraph & RAG
 - 🤖 Deep interest in **AI agents, LLM tooling, retrieval systems**, and **scalable, concurrency-safe architectures**
 - 📈 I care about the full lifecycle — from **model training and evaluation** to **deployment, benchmarking, and observability**
@@ -77,42 +77,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔒 [SkyLock](https://github.com/AaryaButolia11/SkyLock) — Concurrency-Safe Flight Booking Backend
-`FastAPI` · `PostgreSQL` · `Redis` · `WebSockets` · `Groq` · `LangChain`
-
-- Engineered an **async FastAPI backend** (7-table Postgres schema) that eliminates concurrent seat-booking races via **3-layer locking** — Redis distributed locks, Postgres row-locks, and unique constraints — verified at **zero double-bookings across 30 concurrent races**.
-- **Load-tested** the read path with Locust (100 concurrent users, Dockerized Postgres/Redis), sustaining **~200 req/s at sub-1s p95 latency**.
-- Built a **LangChain/Groq tool-calling agent** for natural-language booking, with JWT/RBAC auth and real-time seat sync over WebSockets.
-
-### 📈 [StockWise](https://github.com/AaryaButolia11/stockwiseAI) — AI Stock Trading Platform
-`Python` · `Flask` · `PostgreSQL` · `LangChain` · `Groq`
-
-- Full-stack **paper-trading platform** for the Indian market (Nifty 50) with an **ML recommender** (Histogram Gradient Boosting) scoring 50+ NSE stocks daily on momentum, volatility, and RSI.
-- Validated via **walk-forward testing** over 40 NSE trading days — **62.5% directional accuracy**, outperforming Nifty-50 by **+10.3pp**.
-- Integrated a **grounded RAG chatbot** (TF-IDF retrieval + Groq tool-calling) and Twilio SMS alerts.
-
-### 🧠 [Multi-Agent Research Pipeline](https://github.com/AaryaButolia11/Multi-Agent-Research-System-LangChain) — Self-Refining AI Research System
-`LangGraph` · `LangChain` · `Groq LLaMA 3.3 70B` · `Tavily` · `FastAPI`
-
-- Built a **self-refining multi-agent system** (Search → Reader → Writer → Critic) generating grounded, cited reports in **~13s at ~$0.006 per report**.
-- Developed an **LLM-as-judge evaluation harness** (0.75 faithfulness, 0.90 relevance, 7.2/10 avg) with full token/cost observability.
-- Deployed a **streaming FastAPI backend** (Server-Sent Events, Pydantic outputs, server-side PDF export) containerized on Render.
-
-<details>
-<summary><b>📂 More Projects</b></summary>
-
-<br>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Nexus-Ops](https://github.com/AaryaButolia11/Nexus-Ops-ExpertHire) 🏆 | Real-time event command center with live zone heatmaps, AI situational awareness & incident tracking (Hackathon 3rd place) | Flask, Socket.IO |
-| [WebPage Extraction Tool](https://github.com/AaryaButolia11/WebPage_Extraction_Tool-LangChain_RAG) | RAG tool for extracting & querying web content | LangChain, RAG |
-| [YouTube ChatBot](https://github.com/AaryaButolia11/YouTube-ChatBot-RAG-LangChain) | RAG chatbot that answers questions over YouTube transcripts | LangChain, RAG |
-| [Inventory Management](https://github.com/AaryaButolia11/Inventory-Management-FastAPI) | Full CRUD product manager with React frontend + FastAPI backend | React, FastAPI, Postgres |
-
-</details>
+| Project | Description | Tech Stack |
+|:--------|:------------|:-----------|
+| **[🔒 SkyLock](https://github.com/AaryaButolia11/SkyLock)** | Async flight-booking backend with **3-layer locking** (Redis + Postgres row-locks + unique constraints) — **zero double-bookings across 30 concurrent races**. Load-tested at **~200 req/s, sub-1s p95** (Locust). Includes a LangChain/Groq booking agent + JWT/RBAC auth. | `FastAPI` `PostgreSQL` `Redis` `WebSockets` `Groq` |
+| **[📈 StockWise](https://github.com/AaryaButolia11/stockwiseAI)** | Full-stack paper-trading platform for Nifty 50 with an **ML recommender** (Histogram Gradient Boosting) — **62.5% directional accuracy**, **+10.3pp over Nifty-50** on walk-forward tests. Grounded RAG chatbot + Twilio SMS alerts. | `Python` `Flask` `PostgreSQL` `LangChain` `Groq` |
+| **[🧠 Multi-Agent Research Pipeline](https://github.com/AaryaButolia11/Multi-Agent-Research-System-LangChain)** | Self-refining multi-agent system (Search → Reader → Writer → Critic) generating cited reports in **~13s at ~$0.006 each**. LLM-as-judge eval harness (0.90 relevance) + streaming FastAPI backend. | `LangGraph` `LangChain` `Groq` `FastAPI` |
+| **[🏆 Nexus-Ops](https://github.com/AaryaButolia11/Nexus-Ops-ExpertHire)** | Real-time event command center with live zone heatmaps, AI situational awareness & incident tracking. **3rd place, ExpertHire Hackathon** (500+ participants). | `Flask` `Socket.IO` |
+| **[📄 WebPage Extraction Tool](https://github.com/AaryaButolia11/WebPage_Extraction_Tool-LangChain_RAG)** | RAG pipeline for extracting and querying content from any web page with grounded answers. | `LangChain` `RAG` |
+| **[▶️ YouTube ChatBot](https://github.com/AaryaButolia11/YouTube-ChatBot-RAG-LangChain)** | RAG chatbot that answers natural-language questions over YouTube video transcripts. | `LangChain` `RAG` |
+| **[📦 Inventory Management](https://github.com/AaryaButolia11/Inventory-Management-FastAPI)** | Full-CRUD product manager with search, sort & theming — React frontend on a FastAPI backend. | `React` `FastAPI` `PostgreSQL` |
 
 ---
 
@@ -139,25 +114,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AaryaButolia11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaButolia11&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=AaryaButolia11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AaryaButolia11&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AaryaButolia11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-## 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aaryab11?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<!--
-  👆 Replace YOUR_LEETCODE_USERNAME above with your actual LeetCode handle
-  (the name in your profile URL: leetcode.com/u/<username>).
-  Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card
--->
 
 ---
 
