@@ -150,7 +150,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/aaryab11?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <!--
