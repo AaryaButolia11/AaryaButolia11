@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science (AI & ML)** at **VIT Bhopal** — CGPA **9.19 / 10**
+- 🎓 **B.Tech in Computer Science (AI & ML)** at **VIT**
 - ⚙️ I build **async, production-ready backends** with FastAPI & Flask, and **GenAI systems** with LangChain, LangGraph & RAG
 - 🤖 Deep interest in **AI agents, LLM tooling, retrieval systems**, and **scalable, concurrency-safe architectures**
 - 📈 I care about the full lifecycle — from **model training and evaluation** to **deployment, benchmarking, and observability**
