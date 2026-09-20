@@ -93,6 +93,7 @@
 
 ## 📜 Certifications
 
+- **AWS** — AWS Certified Cloud Practitioner · *Sep 2026*
 - **Oracle** — Agentic AI Certified Foundations Associate · *Jul 2026*
 - **DeepLearning.AI** — Supervised Machine Learning: Regression & Classification · *May 2026*
 - **Oracle (OCI)** — Generative AI Professional & AI Foundations Associate (96%) · *Jul 2025*
