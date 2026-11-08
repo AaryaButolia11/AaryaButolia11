@@ -1,4 +1,4 @@
-<h1 align="center">Hii, I'm Aarya Butolia 👋</h1>
+<h1 align="center">Hiii, I'm Aarya Butolia 👋</h1>
 
 <p align="center">
   <b>Backend & AI/ML Developer</b><br>
